@@ -9,9 +9,8 @@
   </a>
 </div>
 
-<div align="center">
-  Currently learning <b>React, NextJS, & Golang</b> | Ask me about <b>Web Dev</b>
-</div>
+# 💫 About Me:
+🔭 Current Focus: **End-to-End Fullstack Development**<br>👯 Open for: **Open Source Collaboration & System Design discussions**<br>🌱 Learning Path: **DevOps (Docker/K8s) & AI Engineering**<br>⚡ Quick Bio: **I build tools and web apps faster than I get ideas. Code is my craft.**
 
 <br/>
 
@@ -24,35 +23,15 @@
 
 <br/>
 
-<h3 align="center">📊 GitHub Stats</h3>
-<div align="center">
-  <a href="https://github.com/cims969">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cims969&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cims969&layout=compact&theme=tokyonight"/>
-  </a>
-</div>
+## 🌐 Socials:
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@antrxv1.2) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/justFishHehe) 
 
-<div align="center">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cims969&theme=tokyonight" alt="GitHub Streak" />
-</div>
 
-<br/>
 
-<h3 align="center">📫 Connect with Me</h3>
-<div align="center">
-  <a href="https://instagram.com/username_ig_lu" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://linkedin.com/in/username_linkedin_lu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:email_lu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=cims969&theme=shadow_blue&no-frame=true&no-bg=true&margin-w=4)
 
-<br/>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=cims969&style=flat-square&color=blue" alt="visitor count"/>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=cims969&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
