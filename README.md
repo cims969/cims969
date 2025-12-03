@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
-  <h1>Hi there, I'm <a href="https://github.com/USERNAME_LU">Nama Lu</a>! 👋</h1>
+  <h1>Hi there, I'm <a href="https://github.com/cims969">Nama Lu</a>! 👋</h1>
 </div>
 
 <div align="center">
@@ -26,15 +26,15 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
-  <a href="https://github.com/USERNAME_LU">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_LU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_LU&layout=compact&theme=tokyonight"/>
+  <a href="https://github.com/cims969">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cims968&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cims969&layout=compact&theme=tokyonight"/>
   </a>
 </div>
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_LU&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cims969&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -54,5 +54,5 @@
 
 <br/>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_LU&style=flat-square&color=blue" alt="visitor count"/>
+  <img src="https://komarev.com/ghpvc/?username=cims969&style=flat-square&color=blue" alt="visitor count"/>
 </div>
